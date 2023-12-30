@@ -1,14 +1,11 @@
 [
 	{
 		"Tag": "london-01",
-		"IP": "51.89.206.24",
 		"Country": "GB",
+		"IP": "51.89.206.24",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
@@ -20,14 +17,11 @@
 	},
 	{
 		"Tag": "finland-01",
+		"Country": "FI",
 		"IP": "65.109.97.176",
-		"Country": "GB",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
@@ -39,14 +33,11 @@
 	},
 	{
 		"Tag": "hong-kong-01",
+		"Country": "CN",
 		"IP": "27.0.232.38",
-		"Country": "GB",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
@@ -58,14 +49,11 @@
 	},
 	{
 		"Tag": "montreal-01",
+		"Country": "CA",
 		"IP": "66.70.151.95",
-		"Country": "GB",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
@@ -77,14 +65,11 @@
 	},
 	{
 		"Tag": "los-angeles-01",
+		"Country": "US",
 		"IP": "208.115.233.89",
-		"Country": "GB",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
@@ -96,14 +81,11 @@
 	},
 	{
 		"Tag": "test-01",
+		"Country": "TX",
 		"IP": "185.186.76.193",
-		"Country": "GB",
+		"Port": "",
 		"AvailableMbps": 900,
-		"Router": {
-			"AvailableUserMbps": 10,
-			"IP": "",
-			"Port": ""
-		},
+		"AvailableUserMbps": 10,
 		"Nodes": [
 			{
 				"IP": "",
