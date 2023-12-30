@@ -1,0 +1,110 @@
+[
+	{
+		"Tag": "london-01",
+		"IP": "51.89.206.24",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	},
+	{
+		"Tag": "finland-01",
+		"IP": "65.109.97.176",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	},
+	{
+		"Tag": "hong-kong-01",
+		"IP": "27.0.232.38",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	},
+	{
+		"Tag": "montreal-01",
+		"IP": "66.70.151.95",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	},
+	{
+		"Tag": "los-angeles-01",
+		"IP": "208.115.233.89",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	},
+	{
+		"Tag": "test-01",
+		"IP": "185.186.76.193",
+		"Country": "GB",
+		"AvailableMbps": 900,
+		"Router": {
+			"IP": "",
+			"Port": ""
+		},
+		"Nodes": [
+			{
+				"IP": "",
+				"Port": "",
+				"AvailableUserMbps": 10,
+				"Tag": "vpn-01"
+			}
+		]
+	}
+]
