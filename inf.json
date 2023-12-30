@@ -5,6 +5,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
@@ -23,6 +24,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
@@ -41,6 +43,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
@@ -59,6 +62,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
@@ -77,6 +81,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
@@ -95,6 +100,7 @@
 		"Country": "GB",
 		"AvailableMbps": 900,
 		"Router": {
+			"AvailableUserMbps": 10,
 			"IP": "",
 			"Port": ""
 		},
