@@ -1,98 +1,56 @@
 [
 	{
+		"Status": 0,
 		"Tag": "london-01",
 		"Country": "GB",
 		"IP": "51.89.206.24",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	},
 	{
+		"Status": 0,
 		"Tag": "finland-01",
 		"Country": "FI",
 		"IP": "65.109.97.176",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	},
 	{
+		"Status": 0,
 		"Tag": "hong-kong-01",
 		"Country": "CN",
 		"IP": "27.0.232.38",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	},
 	{
+		"Status": 0,
 		"Tag": "montreal-01",
 		"Country": "CA",
 		"IP": "66.70.151.95",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	},
 	{
+		"Status": 0,
 		"Tag": "los-angeles-01",
 		"Country": "US",
 		"IP": "208.115.233.89",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	},
 	{
+		"Status": 0,
 		"Tag": "test-01",
 		"Country": "TX",
 		"IP": "185.186.76.193",
 		"Port": "",
 		"AvailableMbps": 900,
-		"AvailableUserMbps": 10,
-		"Nodes": [
-			{
-				"IP": "",
-				"Port": "",
-				"AvailableUserMbps": 10,
-				"Tag": "vpn-01"
-			}
-		]
+		"AvailableUserMbps": 10
 	}
 ]
